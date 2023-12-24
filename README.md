@@ -1,3 +1,5 @@
+[![NuGet version](https://badge.fury.io/nu/ProcessOutputUtility.svg)](https://badge.fury.io/nu/ProcessOutputUtility)
+
 # ProcessOutputUtility
 Utility library related to process output.
 
