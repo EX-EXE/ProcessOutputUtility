@@ -1,0 +1,17 @@
+<Project>
+	<PropertyGroup>
+		<TargetFrameworks>net6.0;net7.0;net8.0</TargetFrameworks>
+		<LangVersion>latest</LangVersion>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+
+		<Authors>EX-EXE</Authors>
+		<Owners>EX-EXE</Owners>
+		<PackageProjectUrl>https://github.com/EX-EXE/ProcessOutputUtility</PackageProjectUrl>
+		<RepositoryUrl>$(PackageProjectUrl)</RepositoryUrl>
+		<RepositoryType>git</RepositoryType>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<Description>Utility library related to process output.</Description>
+		<PackageTags>process;utility;</PackageTags>
+	</PropertyGroup>
+</Project>
